@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib seaborn
 3.  Open **`notebook_1.ipynb`**.
 4.  Run all cells to generate the processed CSVs in `csv_files/` and charts in `outputs/`.
 
-## Collab Link: https://colab.research.google.com/drive/17hKZ4cprRmNRVGff67byau9G5tPdEhYj?usp=sharing
+### Collab Link: https://colab.research.google.com/drive/17hKZ4cprRmNRVGff67byau9G5tPdEhYj?usp=sharing
 -----
 
 ## 📊 Methodology
@@ -88,6 +88,7 @@ The `outputs/` folder contains high-resolution charts used in the final report:
   * **`risk_drawdown.png`**: Equity curve and max drawdown visualization.
   * **`pattern_regime_overlay.png`**: Cumulative PnL plotted against sentiment background zones.
   * **`hourly_pnl.png`**: Profitability heatmap by hour of day.
+    
 and many others.
 
 
