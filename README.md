@@ -15,21 +15,20 @@ The analysis focuses on four key pillars:
 ## 📂 Directory Structure
 This repository adheres to the strict assignment format:
 
-ds_/
-├── notebook_1.ipynb        # Main analysis code (Data Processing, EDA, Visuals)
-├── notebooks/              # (Optional) Sandbox notebooks
-├── csv_files/              # Data Storage
-│   ├── historical_data.csv # Raw Trader Data
-│   ├── fear_greed_index.csv# Raw Sentiment Data
-│   ├── merged_data.csv     # Processed Dataset
-│   └── daily_stats.csv     # Aggregated Daily Metrics
-├── outputs/                # Generated Visualizations
-│   ├── performance_alpha.png
-│   ├── risk_drawdown.png
-│   ├── strategic_bias.png
-│   └── ... (All other charts)
-├── ds_report.pdf           # Final Business-Ready Research Report
-└── README.md               # Project 
+ds_Pradeep_Jaiswal/                                                 
+├── notebook_1.ipynb              # Main analysis code                                      
+├── csv_files/                    # Data Storage                                       
+│   ├── historical_data.csv       # Raw Trader Data                                       
+│   ├── fear_greed_index.csv      # Raw Sentiment Data                                     
+│   ├── merged_data.csv           # Processed Dataset                                  
+│   └── daily_stats.csv           # Aggregated Daily Metrics                       
+├── outputs/                      # Generated Visualizations                         
+│   ├── performance_alpha.png                                           
+│   ├── risk_drawdown.png                                          
+│   ├── strategic_bias.png                                      
+│   └── ... (All other charts)               
+├── ds_report.pdf                 # Final Business-Ready Research Report                 
+└── README.md                     # Project 
 
 ---
 
